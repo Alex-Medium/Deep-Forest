@@ -78,6 +78,25 @@
         "maintenance",
         "test"
       ]
+    },
+    {
+      "login": "zhenlingcn",
+      "name": "zhenlingcn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18747119?v=4",
+      "profile": "https://github.com/zhenlingcn",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Alex-Medium",
+      "name": "Alex-Medium",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78067955?v=4",
+      "profile": "http://alex-medium.github.io",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
